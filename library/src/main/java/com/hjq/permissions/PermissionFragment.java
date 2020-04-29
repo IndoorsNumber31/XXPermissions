@@ -1,6 +1,6 @@
 package com.hjq.permissions;
 
-import android.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.Fragment;
